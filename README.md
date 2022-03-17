@@ -37,7 +37,9 @@ Rural drivers clearly outperform Suburban and Urban drivers in terms of `Average
 
 In order to reduce the disparity between Urban, Suburban and Rural cities, we recomend the following
 
-1. Based on the relationship of Urban cities of `2405 Drivers/1625 Rides = 1.48 Drivers/Ride`, the total number of drivers in Rural areas shold be increased to **185** `(78 drivers * 1.48 = 185 drivers)` 
+1. Based on the relationship of Urban cities of `2405 Drivers/1625 Rides = 1.48 Drivers/Ride`, the total number of drivers in Rural areas shold be increased at least to **185** `(78 drivers * 1.48 = 185 drivers)` 
+2. Using the same metric as in #1 above, the number of drivers in Suburban cities should be increased to a minimum of **726**
+3. 
 
 
 
