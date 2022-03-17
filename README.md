@@ -27,7 +27,11 @@ When we look at the income created, the `Average Fare per Ride` is 20% lower in 
 
 Rural drivers clearly outperform Suburban and Urban drivers in terms of `Average Fare per Driver`. The ratio is 3.3:1 for rural vs. urban, and 2.4:1 for suburban vs. urban. 
 
+### **Conclusions**
 
+1. Urban cities generate the most revenue for PyBer
+2. Customers in Urban coities pay less
+We can conclude that the Rural drivers earn a good level of income 
 
 ## 3. Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
 
