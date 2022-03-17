@@ -30,12 +30,14 @@ Rural drivers clearly outperform Suburban and Urban drivers in terms of `Average
 ### **Conclusions**
 
 1. Urban cities generate the most revenue for PyBer
-2. Customers in Urban coities pay less
-We can conclude that the Rural drivers earn a good level of income 
+2. Customers in Urban cities pay less per ride and therefore drivers earn less per ride
+3. Rural areas seem to be underserved and customers in those areas face more expensive fares than in Urban or Suburban cities
 
 ## 3. Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
 
+In order to reduce the disparity between Urban, Suburban and Rural cities, we recomend the following
 
+1. Based on the relationship of Urban cities of `2405 Drivers/1625 Rides = 1.48 Drivers/Ride`, the total number of drivers in Rural areas shold be increased to **185** `(78 drivers * 1.48 = 185 drivers)` 
 
 
 
