@@ -17,7 +17,7 @@ There is a description of the differences in ride-sharing data among the differe
 
 
 
-![PyBer_fare_summary](https://user-images.githubusercontent.com/98360572/158831868-c0c45c18-d540-4a77-a4c1-e9535076d3e0.png)
+![PyBer_fare_summary](https://github.com/Peteresis/PyBer_Analysis/blob/8a009cfc96a152c416d4bca385b9d78df2c3fcb9/analysis/PyBer_fare_summary.png)
 
 
 ## 3. Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
