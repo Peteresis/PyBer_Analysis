@@ -12,7 +12,7 @@ There is a description of the differences in ride-sharing data among the differe
 
 
 
-![PyBer Summary Dataframe](https://user-images.githubusercontent.com/98360572/158831783-874a9cb0-55bb-4c19-895b-79b95cb5c255.png)
+![PyBer Summary Dataframe](https://github.com/Peteresis/PyBer_Analysis/blob/407d939297c5f070d6815984562729dd029bd756/analysis/PyBer%20Summary%20Dataframe.png)
 
 
 
