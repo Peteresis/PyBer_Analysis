@@ -21,7 +21,9 @@ Figure 1 does not include any information about the cost of the service to its u
 ### Fig 2. Summary Dataframe by City Type
 ![PyBer Summary Dataframe](https://github.com/Peteresis/PyBer_Analysis/blob/407d939297c5f070d6815984562729dd029bd756/analysis/PyBer%20Summary%20Dataframe.png)
 
+The numbers of the summary Dataframe above, show some underlying realities that Figure 1 does not reveal. First of all, there is a tremendous disparity in the number of rides in Urban cities and Surburban or Rural ones (2.6:1) and between Urban and Rural (13:1).  Also, the number of drivers in Urban areas is almost 5 times bigger than in the Suburban cities, and 31 times larger than in Rural communities.  Likewise, the number of rides per driver favors Rural and Subrban drives when compared to Urban drivers.  The relationship is `0.68 Rides/Driver in Urban cities vs 1.28 in Suburban and 1.6 in Rural`. 
 
+When we look at the income generated though, the `Average Fare per Ride` is 20% lower in the Urban cities vs Suburban, and 30% lower in Urban vs Rural. 
 
 
 
